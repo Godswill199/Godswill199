@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  ### About Me
   I am a Developer with over 1 year experience working with my skills and exploring the internet for newer technologies. 
-  I adapt very fast to new technologies and i'm comfortable writing programs, building static website, web-app and data driven web-apps using up to date technologies.
+  I adapt very fast to new technologies and i'm comfortable writing programs, building static website, web-app and data driven web-apps.
   
   ### Skills
 Comfortable in using React, Redux, Firebase, Html, css, javascript, jquery, Bootstrap and CMS Platforms
