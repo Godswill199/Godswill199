@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋 I'm Godswill
 
 <!--
 **Godswill199/Godswill199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### About Me
+  I am a Developer with over 1 year experience working with my skills and exploring the internet for newer technologies. 
+  I adapt very fast to new technologies and i'm comfortable building static website, web-app and data driven web-apps using up to date technologies.
+  
+  ### Skills
+Comfortable in using React, Redux, Firebase, Html, css, javascript, jquery, Bootstrap and CMS Platforms
+  
+  ### What I do for fun
+ - Swimming
+ - Reading books
+ - Listen to music
+ - Design
+ 
+ 
