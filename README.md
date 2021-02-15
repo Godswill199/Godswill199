@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### About Me
-  I am a Developer with over 1 year experience working with my skills and exploring the internet for newer technologies. 
-  I adapt very fast to new technologies and i'm comfortable writing programs, building static website, web-app and data driven web-apps.
+ I am a MERNSTACK software Developer for now; exploring other Technologies. Not a code ninja yet, I understand the concepts and use it when needed.
   
   ### Skills
-Comfortable in using React, Redux, Firebase, Html, css, javascript, jquery, Bootstrap and CMS Platforms
+Comfortable in using React, Hooks, Node, MongoDB, Express js, Git, Html, CSS, javascript, tailwindcss, SCSS, jquery, Wordpress, Deloying(Digital Ocean, Netlify, Heroku)
   
   ### What I do for fun
  - Swimming
  - Reading books
  - Listen to music
- - Design
- 
+ - Meditate
+ - DJ
+
  
