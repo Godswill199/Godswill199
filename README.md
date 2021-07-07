@@ -23,8 +23,6 @@ Comfortable in using React, Hooks, Node, MongoDB, Express js, Git, Html, CSS, ja
   ### What I do for fun
  - Swimming
  - Reading books
- - Listen to music
- - Meditate
- - DJ
+ - Building
 
  
